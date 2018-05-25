@@ -1,0 +1,20 @@
+{
+  "name": "diegodev9-palindrome",
+  "version": "1.0.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "httpps://github.com/diegodev9/palindrome"
+  },
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "author": "Diego Amaya",
+  "license": "ISC"
+}
