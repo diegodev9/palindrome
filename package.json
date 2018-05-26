@@ -16,5 +16,8 @@
     "javascript"
   ],
   "author": "Diego Amaya",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  }
 }
